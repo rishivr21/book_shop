@@ -26,5 +26,6 @@ This project displays different books, categories, pricing, and includes basic U
 
 ---
 
+
 ## 📁 Folder Structure
 
